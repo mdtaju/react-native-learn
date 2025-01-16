@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "react-native-learn",
-    "slug": "react-native-learn",
+    "name": "React-Native-Learn",
+    "slug": "React-Native-Learn",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "React-Native-Learn",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
